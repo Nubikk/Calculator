@@ -1,0 +1,10 @@
+C:\Users\mgruz\source\repos\калькулятор\калькулятор\bin\Debug\калькулятор.exe.config
+C:\Users\mgruz\source\repos\калькулятор\калькулятор\bin\Debug\калькулятор.exe
+C:\Users\mgruz\source\repos\калькулятор\калькулятор\bin\Debug\калькулятор.pdb
+C:\Users\mgruz\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.csprojAssemblyReference.cache
+C:\Users\mgruz\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.Form1.resources
+C:\Users\mgruz\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.Properties.Resources.resources
+C:\Users\mgruz\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.GenerateResource.cache
+C:\Users\mgruz\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\mgruz\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\mgruz\source\repos\калькулятор\калькулятор\obj\Debug\калькулятор.pdb
